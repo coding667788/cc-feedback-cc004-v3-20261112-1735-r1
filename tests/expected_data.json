@@ -1,0 +1,200 @@
+{
+  "paths": [
+    "/",
+    "/cat/books",
+    "/cat/books?page=1",
+    "/cat/books?page=2",
+    "/cat/books?page=3",
+    "/cat/games",
+    "/cat/games?page=1",
+    "/cat/games?page=2",
+    "/cat/music",
+    "/cat/music?page=1",
+    "/item/books-0",
+    "/item/books-1",
+    "/item/books-10",
+    "/item/books-11",
+    "/item/books-2",
+    "/item/books-3",
+    "/item/books-4",
+    "/item/books-5",
+    "/item/books-6",
+    "/item/books-7",
+    "/item/books-8",
+    "/item/books-9",
+    "/item/games-0",
+    "/item/games-1",
+    "/item/games-2",
+    "/item/games-3",
+    "/item/games-4",
+    "/item/games-5",
+    "/item/music-0",
+    "/item/music-1",
+    "/item/music-2",
+    "/item/music-3",
+    "/item/music-4"
+  ],
+  "items": {
+    "books-0": {
+      "sku": "books-0",
+      "category": "books",
+      "title": "Books Item 0",
+      "price": 7.5,
+      "stock": 5
+    },
+    "books-1": {
+      "sku": "books-1",
+      "category": "books",
+      "title": "Books Item 1",
+      "price": 14.5,
+      "stock": 8
+    },
+    "books-2": {
+      "sku": "books-2",
+      "category": "books",
+      "title": "Books Item 2",
+      "price": 21.5,
+      "stock": 11
+    },
+    "books-3": {
+      "sku": "books-3",
+      "category": "books",
+      "title": "Books Item 3",
+      "price": 28.5,
+      "stock": 14
+    },
+    "books-4": {
+      "sku": "books-4",
+      "category": "books",
+      "title": "Books Item 4",
+      "price": 12.5,
+      "stock": 0
+    },
+    "books-5": {
+      "sku": "books-5",
+      "category": "books",
+      "title": "Books Item 5",
+      "price": 19.5,
+      "stock": 3
+    },
+    "books-6": {
+      "sku": "books-6",
+      "category": "books",
+      "title": "Books Item 6",
+      "price": 26.5,
+      "stock": 6
+    },
+    "books-7": {
+      "sku": "books-7",
+      "category": "books",
+      "title": "Books Item 7",
+      "price": 10.5,
+      "stock": 9
+    },
+    "books-8": {
+      "sku": "books-8",
+      "category": "books",
+      "title": "Books Item 8",
+      "price": 17.5,
+      "stock": 12
+    },
+    "books-9": {
+      "sku": "books-9",
+      "category": "books",
+      "title": "Books Item 9",
+      "price": 24.5,
+      "stock": 15
+    },
+    "books-10": {
+      "sku": "books-10",
+      "category": "books",
+      "title": "Books Item 10",
+      "price": 8.5,
+      "stock": 1
+    },
+    "books-11": {
+      "sku": "books-11",
+      "category": "books",
+      "title": "Books Item 11",
+      "price": 15.5,
+      "stock": 4
+    },
+    "games-0": {
+      "sku": "games-0",
+      "category": "games",
+      "title": "Games Item 0",
+      "price": 7.5,
+      "stock": 5
+    },
+    "games-1": {
+      "sku": "games-1",
+      "category": "games",
+      "title": "Games Item 1",
+      "price": 14.5,
+      "stock": 8
+    },
+    "games-2": {
+      "sku": "games-2",
+      "category": "games",
+      "title": "Games Item 2",
+      "price": 21.5,
+      "stock": 11
+    },
+    "games-3": {
+      "sku": "games-3",
+      "category": "games",
+      "title": "Games Item 3",
+      "price": 28.5,
+      "stock": 14
+    },
+    "games-4": {
+      "sku": "games-4",
+      "category": "games",
+      "title": "Games Item 4",
+      "price": 12.5,
+      "stock": 0
+    },
+    "games-5": {
+      "sku": "games-5",
+      "category": "games",
+      "title": "Games Item 5",
+      "price": 19.5,
+      "stock": 3
+    },
+    "music-0": {
+      "sku": "music-0",
+      "category": "music",
+      "title": "Music Item 0",
+      "price": 7.5,
+      "stock": 5
+    },
+    "music-1": {
+      "sku": "music-1",
+      "category": "music",
+      "title": "Music Item 1",
+      "price": 14.5,
+      "stock": 8
+    },
+    "music-2": {
+      "sku": "music-2",
+      "category": "music",
+      "title": "Music Item 2",
+      "price": 21.5,
+      "stock": 11
+    },
+    "music-3": {
+      "sku": "music-3",
+      "category": "music",
+      "title": "Music Item 3",
+      "price": 28.5,
+      "stock": 14
+    },
+    "music-4": {
+      "sku": "music-4",
+      "category": "music",
+      "title": "Music Item 4",
+      "price": 12.5,
+      "stock": 0
+    }
+  }
+}
